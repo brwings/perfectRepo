@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraries>
+<library id="clipart" name="clipart" version="1.0" virtualRoot="lib/clipart"/>
+<library id="html" name="html" version="0.8"/>
+<library id="dojo" name="dojo" version="1.7" virtualRoot="lib/dojo"/>
+<library id="DojoThemes" name="DojoThemes" version="1.7" virtualRoot="themes"/>
+<library id="shapes" name="shapes" version="1.0" virtualRoot="lib/shapes"/>
+<library id="jquery-ui" name="jquery-ui" version="1.8.11" virtualRoot="lib/jquery-ui"/>
+<library id="gridx" name="gridx" version="1.0prebeta2" virtualRoot="lib/dojo/gridx"/>
+<library id="maqetta" name="maqetta" version="0.3" virtualRoot="lib/maqetta"/>
+<library id="yui" name="yui" version="2.8.2r1" virtualRoot="lib/yui"/>
+</libraries>
